@@ -11,8 +11,8 @@
 
 ## Для связи со мной
 
-telegram: @ia_trofimov
-email: i.trofimofff@gamil.com
+- telegram: @ia_trofimov
+- email: i.trofimofff@gamil.com
 
 
 <!--
