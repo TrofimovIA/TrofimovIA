@@ -4,7 +4,7 @@
 ## Немного о себе:
 
 - Сфера интересов: аналитика данных, продуктовая аналитика, BI
-- Стек технологий: Python, SQL, Metabase, и так далее
+- Стек технологий: Python, PostgreSQL, Metabase, и так далее
 
 ## Вот несколько моих проектов:
 - [Пример кейса](https://colab.research.google.com/drive/1CrGB9MWo_Ej1i1_BQX025U4CUWEI5ZUC)
