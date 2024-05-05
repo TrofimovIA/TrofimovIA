@@ -10,7 +10,7 @@
 -	оптимизировать бизнес процессы (сбор и хранение данных,  дашборды, ETL).
 
 ### Навигация:
-- [Пример кейса](https://colab.research.google.com/drive/1CrGB9MWo_Ej1i1_BQX025U4CUWEI5ZUC)
+- [Сбор данных для поиска вариантов монетизации платформы для решения задач](https://github.com/TrofimovIA/Monetization-Analytics/blob/main/README.md)
 
 ### Для связи со мной
 
