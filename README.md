@@ -10,7 +10,7 @@
 -	оптимизировать бизнес процессы (сбор и хранение данных,  дашборды, ETL).
 
 ### Навигация:
-- [Сбор данных для поиска вариантов монетизации платформы для решения задач](https://github.com/TrofimovIA/Monetization-Analytics/blob/main/README.md)
+- [Расчёт метрик платформы для решения задач с целью создания плана смены монетизации](https://github.com/TrofimovIA/Monetization-Analytics/blob/main/README.md)
 
 ### Для связи со мной
 
