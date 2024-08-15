@@ -14,7 +14,7 @@
 - [Выстраивание ETL-пайплайна для обучающей платформы](https://github.com/TrofimovIA/ETL-SF)
 - [Анализ помеченных креативов с целью снижения CPA](https://github.com/TrofimovIA/creative_library)
 - [Сочетаемость товаров](https://github.com/TrofimovIA/product_compatibility)
-- [Влияние цен на продажи](https://github.com/TrofimovIA/Price_change)
+- [Влияние изменения цен на продажи](https://github.com/TrofimovIA/Price_change)
 ### Для связи со мной
 
 - telegram: @ia_trofimov
