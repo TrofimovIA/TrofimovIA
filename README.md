@@ -12,9 +12,10 @@
 ### Навигация:
 - [Расчёт метрик платформы для решения задач с целью создания плана смены монетизации](https://github.com/TrofimovIA/Monetization-Analytics/blob/main/README.md)
 - [Выстраивание ETL-пайплайна для обучающей платформы](https://github.com/TrofimovIA/ETL-SF)
-- [Анализ помеченных креативов с целью снижения CPA](https://github.com/TrofimovIA/creative_library)
+- [Анализ помеченных креативов с целью снижения CPA](https://colab.research.google.com/drive/1LnjsWLz_uWCTMZXX8yBePz2BEstnAYTo?usp=sharing)
 - [Сочетаемость товаров](https://github.com/TrofimovIA/product_compatibility)
 - [Влияние изменения цен на продажи](https://github.com/TrofimovIA/Price_change)
+
 ### Для связи со мной
 
 - telegram: @ia_trofimov
